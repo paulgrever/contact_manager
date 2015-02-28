@@ -42,6 +42,7 @@ group :development, :test do
   gem 'byebug'
   gem 'rspec-rails'
   gem 'sqlite3'
+  gem 'capybara'
 
 
   # Access an IRB console on exception pages or by using <%= console %> in views
